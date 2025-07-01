@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://cloud.joshua.home64.de/mail/',
+			link: 'https://cloud.joshua.home64.de/apps/mail/',
 		},
 		{
 			id: '3',
